@@ -96,9 +96,6 @@ GET /api/provinces
 }
 ```
 
-## Lisensi
-
-MIT License
 
 
 
